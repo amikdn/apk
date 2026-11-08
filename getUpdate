@@ -1,6 +1,6 @@
 {
   "apkUrl": "https://github.com/amikdn/apk/releases/download/Zona_Mod_VaZoNeZ/Zona%2B%2BVaZoNeZ-3.0.77.apk",
-  "versionCode": 1078,
+  "versionCode": 1077,
   "apiHost": "",
   "vastUrl": "",
   "whatsNew": [
@@ -782,7 +782,7 @@
         }
       ],
       "title": "Zona++ 3.0.77 VaZoNeZ",
-      "versionCode": 1078
+      "versionCode": 1077
     }
   ]
 }
